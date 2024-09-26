@@ -1,1 +1,1 @@
-# techlabs-challenge_one
+# Eechlabs Challenge #1
